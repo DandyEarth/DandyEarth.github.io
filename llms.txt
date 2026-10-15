@@ -1,0 +1,23 @@
+# DandyEarth
+
+> DandyEarth is an outsourced IT department for mission-driven organizations of about 5 to 50 people,
+> serving the Central Valley of California (Modesto, Turlock, Stockton, Merced) and the Abilene /
+> Clyde area of West Texas, plus remote clients. Core: managed IT. Secondary: websites and business AI.
+
+## Services
+- Managed IT Services: https://dandy.earth/services/managed-it/
+- Cybersecurity & Email Protection: https://dandy.earth/services/cybersecurity/
+- Microsoft 365 & Cloud: https://dandy.earth/services/microsoft-365-cloud/
+- Servers, Networks & Infrastructure: https://dandy.earth/services/servers-networks/
+- Backup & Disaster Recovery: https://dandy.earth/services/backup-recovery/
+- Business AI & Automation (consulting and pilots): https://dandy.earth/services/business-ai/
+- IT Consulting & Special Projects: https://dandy.earth/services/it-consulting/
+
+## Industries
+- Nonprofits & Associations: https://dandy.earth/industries/nonprofits/
+- Churches & Ministries: https://dandy.earth/industries/churches/
+- CPA Firms & Accountants: https://dandy.earth/industries/cpa-firms/
+
+## About
+- About DandyEarth: https://dandy.earth/about/
+- Contact: https://dandy.earth/contact/
